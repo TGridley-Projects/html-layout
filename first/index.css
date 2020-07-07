@@ -1,7 +1,4 @@
-body {
-    margin: 0;
-    background-color: #9B9C9E;
-}
+
 
 .header {
     width: 100%;
@@ -10,13 +7,18 @@ body {
     
 }
 
-.main-body{
+.main-body {
     background-color: #FFFFFF;
     margin: auto;
     width: 80%;
     height: 70vh;
-
+    
 }
+
+body {
+    background-color: #9c9ca0;
+   
+ }
 
 .footer {
     margin: auto;
