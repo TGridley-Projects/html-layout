@@ -1,0 +1,51 @@
+body {
+    margin: 0 auto;
+    padding: 0;
+}
+
+
+.header {
+    Margin: 0;
+    padding: 25px;
+    height: 100px;
+    width: 100%;
+    background-color: #afaeae;
+    box-sizing: border-box;
+}
+
+.menuBox {
+    height: 50px;
+    width: 50px;
+    background-color: #1167e9;
+   
+}
+
+.mainBody {
+    height: 200px;
+    width: 100%;
+    background-color: #FFFFFF;
+    padding: 75px;
+    box-sizing: border-box;
+}
+
+.rows {
+    height: 100px;
+    width: 100%;
+
+}
+
+.row1 {
+    background-color: #1167e9;
+}
+
+.row2 {
+    background-color: #27a776;
+}
+
+.row3 {
+    background-color: #457c17;
+}
+
+.row4 {
+    background-color: #c1c42b;
+}
